@@ -27,7 +27,7 @@ function AboutME() {
         {/* About Me Text */}
         <div className="w-full md:w-1/2 flex flex-col items-center justify-center p-10 text-center">
           <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-3 tracking-tight drop-shadow">
-            Aadit Jhajnn
+            Aadit Jhajnnjbhb
           </h2>
           <div className="h-1 w-16 bg-cyan-400 rounded-full mb-6"></div>
           <p className="text-lg md:text-xl text-gray-200 mb-7 font-medium">
